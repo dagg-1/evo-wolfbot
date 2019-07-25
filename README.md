@@ -5,7 +5,7 @@ Evo's Wolfbot
 - Node.js
 - npm
 
-## Setup and Installation
+## Setup and Running
 Create a token.json and follow the example file
 
 Install the dependencies 
