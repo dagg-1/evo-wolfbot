@@ -1,0 +1,24 @@
+{
+  "name": "evo-wolfbot",
+  "version": "1.0.0",
+  "description": "Evo's Wolfbot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagg-1/evo-wolfbot.git"
+  },
+  "author": "Daggintosh & Evo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagg-1/evo-wolfbot/issues"
+  },
+  "homepage": "https://github.com/dagg-1/evo-wolfbot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "randomcolor": "^0.5.4",
+    "request": "^2.88.0"
+  }
+}
