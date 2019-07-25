@@ -8,8 +8,11 @@ Evo's Wolfbot
 ## Setup and Installation
 Create a token.json and follow the example file
 
-Then run with:
+Install the dependencies 
 ```
 npm i
+```
+Then run
+```
 npm start
 ```
