@@ -5,7 +5,7 @@ Evo's Wolfbot
 - Node.js
 - npm
 
-## Setup and installation
+## Setup and Installation
 ```
 npm i
 npm start
